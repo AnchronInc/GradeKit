@@ -15,19 +15,11 @@ sudo gem install cocoapods
 
 ### Installing
 
-Install dependencies
+Install dependencies using:
 
 ```
 pod install
 ```
-
-Then open 
-
-```
-SimpleGrades.xcworkspace
-```
-
-To begin working in Xcode.
 
 
 ## Built With
@@ -44,7 +36,7 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) for details on repo structure an
 
 * **Michael Caruso**
 
-See also the list of [contributors](https://github.com/AnchronInc/SimpleGrades/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/AnchronInc/GradeKit/contributors) who participated in this project.
 
 ## License
 
