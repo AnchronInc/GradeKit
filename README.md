@@ -1,5 +1,5 @@
 # GradeKit ![Version 1.5](https://img.shields.io/badge/release-1.5.0-orange.svg) ![Swift 4.2](https://img.shields.io/badge/Swift-4.2-blue.svg)
-The grade scraping portion of SimpleGrades. I open sourced this because I have no ability to maintain it in college, so I figure whoever's interested should take over!
+The grade scraping portion of SimpleGrades. I open-sourced this because I have no ability to maintain it in college, so I figure whoever's interested should take over!
 
 [Download on iOS App Store](https://itunes.apple.com/us/app/simplegrades/id1178469116)
 
